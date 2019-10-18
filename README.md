@@ -16,3 +16,7 @@ https://nbviewer.jupyter.org/github/eurus13/datasci_exercises/blob/master/Slicin
 
 https://nbviewer.jupyter.org/github/eurus13/datasci_exercises/blob/master/iris_algo_trials.ipynb
 
+https://github.com/eurus13/room_price_scrapper
+
+
+
