@@ -19,4 +19,10 @@ https://nbviewer.jupyter.org/github/eurus13/datasci_exercises/blob/master/iris_a
 https://github.com/eurus13/room_price_scrapper
 
 
+little programs:
+
+https://github.com/eurus13/synthetic_phonics_teaching_tool
+
+
+
 
