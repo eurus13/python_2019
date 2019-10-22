@@ -23,6 +23,11 @@ little programs:
 
 https://github.com/eurus13/synthetic_phonics_teaching_tool
 
+https://github.com/eurus13/projects-/blob/master/clock.py
+
+https://github.com/eurus13/projects-/blob/master/calc.py
+
+
 
 
 
