@@ -4,7 +4,7 @@
 Please follow links to view projects on https://nbviewer.jupyter.org
 
 
-https://nbviewer.jupyter.org/github/eurus13/projects-/blob/master/Student_list_numberOFshifts_timestamp.ipynb
+https://nbviewer.jupyter.org/github/eurus13/Data-Visualization/blob/master/student_timestamp_shifts.ipynb
 
 https://nbviewer.jupyter.org/github/eurus13/Data-Visualization/blob/master/Forrest_Fenn_Poem_Analytics.ipynb
 
