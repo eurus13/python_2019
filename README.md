@@ -6,6 +6,8 @@ Please follow links to view projects on https://nbviewer.jupyter.org
 
 https://nbviewer.jupyter.org/github/eurus13/Data-Visualization/blob/master/student_timestamp_shifts.ipynb
 
+https://github.com/eurus13/eurus13.github.io/blob/master/_posts/2019-5-23-BananasBananasBananas.md (interactive:https://plot.ly/~eurus13/1/)
+
 https://nbviewer.jupyter.org/github/eurus13/Data-Visualization/blob/master/Forrest_Fenn_Poem_Analytics.ipynb
 
 https://nbviewer.jupyter.org/github/eurus13/Data-Visualization/blob/master/1_in_a_While.ipynb
