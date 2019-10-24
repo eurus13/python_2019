@@ -8,7 +8,7 @@ https://nbviewer.jupyter.org/github/eurus13/Data-Visualization/blob/master/stude
 
 https://github.com/eurus13/eurus13.github.io/blob/master/_posts/2019-5-23-BananasBananasBananas.md (interactive:https://plot.ly/~eurus13/1/)
 
-https://github.com/eurus13/synthetic_phonics_teaching_tool
+(live:http://monkey-469.getforge.io/) https://github.com/eurus13/synthetic_phonics_teaching_tool
 
 ----
 
