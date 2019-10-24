@@ -8,22 +8,17 @@ https://nbviewer.jupyter.org/github/eurus13/Data-Visualization/blob/master/stude
 
 https://github.com/eurus13/eurus13.github.io/blob/master/_posts/2019-5-23-BananasBananasBananas.md (interactive:https://plot.ly/~eurus13/1/)
 
+https://github.com/eurus13/synthetic_phonics_teaching_tool
+
+----
+
 https://nbviewer.jupyter.org/github/eurus13/Data-Visualization/blob/master/Forrest_Fenn_Poem_Analytics.ipynb
 
 https://nbviewer.jupyter.org/github/eurus13/Data-Visualization/blob/master/1_in_a_While.ipynb
 
 https://nbviewer.jupyter.org/github/eurus13/fizzbuzz/blob/master/fizzbuzz.ipynb
-
-https://nbviewer.jupyter.org/github/eurus13/datasci_exercises/blob/master/Slicing%20for%20DataSci.ipynb
-
-https://nbviewer.jupyter.org/github/eurus13/datasci_exercises/blob/master/iris_algo_trials.ipynb
-
+\
 https://github.com/eurus13/room_price_scrapper
-
-
-little programs:
-
-https://github.com/eurus13/synthetic_phonics_teaching_tool
 
 https://github.com/eurus13/projects-/blob/master/clock.py
 
