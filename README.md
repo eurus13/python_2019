@@ -1,9 +1,16 @@
-# python_2019
+# python_2019, 2020
 2019 python projects and practice
 
-Please follow links to view projects on https://nbviewer.jupyter.org
+2020
+----
 
- https://github.com/eurus13/writethisway No edit/one-direction writing encourgment program)
+
+https://github.com/eurus13/climate_change_modeling/blob/master/bare_planet_model_wk_one.ipynb
+
+
+2019
+----
+https://github.com/eurus13/writethisway No edit/one-direction writing encourgment program)
 
 https://nbviewer.jupyter.org/github/eurus13/Data-Visualization/blob/master/student_timestamp_shifts.ipynb
 (Mored detailed explanation in the readme https://github.com/eurus13/fairness_list)
@@ -12,7 +19,6 @@ https://nbviewer.jupyter.org/github/eurus13/Data-Visualization/blob/master/stude
 
 (live:http://monkey-469.getforge.io/) https://github.com/eurus13/synthetic_phonics_teaching_tool [chrome only currently]
 
-----
 
 https://nbviewer.jupyter.org/github/eurus13/Data-Visualization/blob/master/Forrest_Fenn_Poem_Analytics.ipynb
 
