@@ -3,6 +3,7 @@
 
 Please follow links to view projects on https://nbviewer.jupyter.org
 
+ https://github.com/eurus13/writethisway No edit/one-direction writing encourgment program)
 
 https://nbviewer.jupyter.org/github/eurus13/Data-Visualization/blob/master/student_timestamp_shifts.ipynb
 
