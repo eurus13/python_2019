@@ -10,7 +10,7 @@ https://github.com/eurus13/climate_change_modeling/blob/master/bare_planet_model
 
 2019
 ----
-https://github.com/eurus13/writethisway No edit/one-direction writing encourgment program)
+https://github.com/eurus13/writethisway No edit/one-direction writing encouragment program)
 
 https://nbviewer.jupyter.org/github/eurus13/Data-Visualization/blob/master/student_timestamp_shifts.ipynb
 (Mored detailed explanation in the readme https://github.com/eurus13/fairness_list)
